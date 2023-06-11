@@ -5,7 +5,9 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
-    - navigation.top
+   # - toc:
+   #   title: On this page
+   # - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link

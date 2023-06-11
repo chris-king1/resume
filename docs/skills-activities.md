@@ -54,9 +54,9 @@
 * Information Development Managers and Leads
 * Technical Content (IBM Global) Initiative
 * SaaS work group lead
-* Winner of the IBM Technical Content Challenge (2020)
+* [Winner of the IBM Technical Content Challenge \(2020)](IBM-Storage-Insights-60-seconds-or-less.mp4)
 * IBM Docs beta tester
-* Source control lead
+* Source control lead (IDCMS, GitHub)
 * GUI review work group lead
 * Metrics work group
 * Technical editing work group
