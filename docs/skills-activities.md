@@ -22,7 +22,7 @@
 * Powerpoint
 * MkDocs
 * Mural
-* WalkMe
+* WalkMe (DAP)
 * Word
 
 ## Production tools and process
@@ -50,17 +50,18 @@
 
 ## Professional activities and work groups 
 
+* IBM Content DevOps
+* IBM Design Thinking Workshops (2015, 2018)
+* IBM Docs beta tester
 * Information Architect Practitioners
 * Information Development Professionals
 * Information Development Managers and Leads
-* Technical Content (IBM Global) Initiative
-* SaaS work group lead
-* [Winner of the IBM Technical Content Challenge \(2020)](IBM-Storage-Insights-60-seconds-or-less.mp4)
-* IBM Docs beta tester
-* Source control lead (IDCMS, GitHub)
-* GUI review work group lead
 * Metrics work group
+* SaaS work group lead
+* Source control lead (IDCMS, GitHub)
+* Technical Content (IBM Global) Initiative
 * Technical editing work group
-* IBM Design Thinking Workshops (2015, 2018)
+* UX review work group lead
 * WalkMe workgroup lead
+* [Winner of the IBM Technical Content Challenge \(2020)](IBM-Storage-Insights-60-seconds-or-less.mp4)
 
