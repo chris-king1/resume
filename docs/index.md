@@ -13,7 +13,7 @@ LinkedIn: <https://www.linkedin.com/in/chris-king-b2475b8/>
 
 I'm an experienced technical writer, information architect, team leader, and user experience professional in software development. In my roles, I'm a passionate advocate for users and for the design, development, and delivery of quality technical content. 
 
-    My focus is on the "information experience" of a software application, inside and outside of its user interface. Because technical content is a key part of the user journey, I feel its development is integral to any project. 
+**My focus is on the "information experience" of a software application, inside and outside of its user interface. Because technical content is a key part of the user journey, I feel its development is integral to any project.** 
 
 Great documentation, help, and in-app assistance provide users with the answers that they're looking for, when and where they need it, and with the right amount of detail. I'd love the opportunity to add my commitment, desire for continual improvement, and experience working on complex software to your technical writing team.
 
