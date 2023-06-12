@@ -1,7 +1,7 @@
 site_name: Chris King
 theme:
   name: material
-  logo: /images/logo.png
+  logo: logo.png
   features:
     - navigation.tabs.sticky
     - navigation.sections
@@ -22,13 +22,13 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: indigo
-      accent: deep orange 
+      accent: orange 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: deep orange
-      accent: indigo
+      primary: blue
+      accent: orange
 
 extra:
   social:
