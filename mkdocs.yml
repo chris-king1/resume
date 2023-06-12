@@ -27,7 +27,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: indigo
       accent: lime
 
 extra:
