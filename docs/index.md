@@ -19,9 +19,9 @@ Great documentation, help, and in-app assistance provide users with the answers 
 
 ## Experience
 
-* `30+ years` as a technical writer that includes planning, writing, updating, and editing technical documentation, user assistance, UX designs, websites, and social media.
-* `19+ years` as the team lead for a group of domestic and international technical writers.
-* `13+ years` as an information architect for enterprise-class, software applications.
+* 30+ years as a technical writer that includes planning, writing, updating, and editing technical documentation, user assistance, UX designs, websites, and social media.
+* 19+ years as the team lead for a group of domestic and international technical writers.
+* 13+ years as an information architect for enterprise-class, software applications.
 * Detailed-oriented writer with proven skills in managing large volumes of information and multitasking in an agile, deadline-driven environment.
 * Strong communication and organization skills. Experience collaborating with software developers, engineers, UX designers, QA, product architects, offering managers, 
 technical support, writers, editors, translators, sales staff, and other key stakeholders.

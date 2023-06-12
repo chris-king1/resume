@@ -20,6 +20,7 @@
 * Inkscape
 * oXygen XML Editor
 * Powerpoint
+* MkDocs
 * Mural
 * WalkMe
 * Word
