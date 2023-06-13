@@ -2,7 +2,7 @@
 
 ## Contact information
 
-Chris King
+Chris King  
 1905 Clay Ln  
 Cedar Park, TX 78613  
 512.517.1812
