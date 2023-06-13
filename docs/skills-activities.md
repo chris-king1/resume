@@ -15,7 +15,7 @@
 * Dreamweaver
 * Drupal
 * Excel
-* Figma
+* Figma (Novice)
 * Framemaker
 * Gimp
 * Inkscape
@@ -34,7 +34,7 @@
 * CMVC
 * DCS
 * Design Thinking
-* GitHub 
+* GitHub / GitHub Desktop
 * IBM Docs
 * IDCMS
 * IEHS
