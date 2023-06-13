@@ -15,6 +15,7 @@
 * Dreamweaver
 * Drupal
 * Excel
+* Figma
 * Framemaker
 * Gimp
 * Inkscape
