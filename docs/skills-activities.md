@@ -64,5 +64,4 @@
 * Technical editing work group
 * UX review work group lead
 * WalkMe workgroup lead
-* [Winner of the IBM Technical Content Challenge \(2020)](IBM-Storage-Insights-60-seconds-or-less.mp4)
-
+* <a href="../IBM-Storage-Insights-60-seconds-or-less.mp4" target="_blank">Winner of the IBM Technical Content Challenge \(2020)</a>

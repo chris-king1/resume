@@ -1,6 +1,6 @@
 # Recommendations
 
-## [Charisa Antigua](https://www.linkedin.com/in/charisa-antigua-729b475/) \(May 26, 2023)
+## <a href="https://www.linkedin.com/in/charisa-antigua-729b475/" target="_blank">Charisa Antigua</a> \(May 26, 2023)
 *CEO & Chief Science Officer at Oscar Newman*
 
 I worked with Chris for over 10 years across multiple companies, locations, and roles. At PLATINUM technology and 
@@ -18,24 +18,22 @@ As a person, he is a pleasure to work with and very team focused. He's always wi
 even tempered, patient, and brings a positive attitude to every project. I enjoyed working with Chris very much and highly 
 recommend him to any future employer.
 
-## [Duddupudi Venkatesh](https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a) \(April 30, 2023)
+## <a href="https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a" target="_blank">Duddupudi Venkatesh</a> \(April 30, 2023)
 *Senior Technical Writer at Capgemini*
 
 Chris is a great technical writer with excellent editorial skills. His intense knowledge about the product had a great impact 
 on the documentation. He's a man with golden heart and significant amount of patience. His contribution to IBM 
 documentation is invaluable. My working experience with him is always memorable. 
 
-He listens to queries with so much 
-patience and gives suggestions without hurting others feelings and the given suggestions are pretty valuable.
+He listens to queries with so much patience and gives suggestions without hurting others feelings and the given suggestions are pretty valuable.
 Sometimes, though the situation is out of control, he still maintains that coolness without reacting too much to the 
 situation. He responds to the situation on time, with the exact solution, and with what needs to be done. 
 
-The people 
-around Chris feels always comfortable. Chris brings great value to the organization. He knows the ins and outs of the 
+The people around Chris feels always comfortable. Chris brings great value to the organization. He knows the ins and outs of the 
 product and he can answer us at anytime regarding any query. I always feel pleasure working with him and cherish the 
 time spent with him. I learned a lot from him personally and professionally.
 
-## [Alifiya Kantawala](https://www.linkedin.com/in/alifiya-kantawala-767891b) \(May 3, 2023)
+## <a href="https://www.linkedin.com/in/alifiya-kantawala-767891b" target="_blank">Alifiya Kantawala</a> \(May 3, 2023)
 *Sr. Manager - Information Developer at Capgemini*
 
 Chris is an extremely talented, detail oriented, and versatile technical writer. We have worked together on a project for 
@@ -46,7 +44,7 @@ and processes very quickly.
 A good team member and an excellent person to be with. He can build rapport and work with anyone across the globe. 
 Working with him has been a very good experience. I wish him all the best for his future endeavors
 
-## [Johanna Hislop](https://www.linkedin.com/in/johanna-hislop-076b9b7) \(April 15, 2023)
+## <a href="https://www.linkedin.com/in/johanna-hislop-076b9b7" target="_blank">Johanna Hislop</a> \(April 15, 2023)
 *Senior Software Engineer at IBM*
 
 My experiences working with Chris have been fantastic. In the support organization, I am heavily reliant upon the 
@@ -59,7 +57,7 @@ concerns that come from support, customers, and others in the field. He listens,
 resolutions. He is genuinely interested in providing a good experience to our end users. Chris is one of the people I truly 
 enjoy getting to work with.
 
-## [Brian Campion](https://www.linkedin.com/in/brian-campion-2a855a4) \(April 14, 2023)
+## <a href="https://www.linkedin.com/in/brian-campion-2a855a4" target="_blank">Brian Campion</a> \(April 14, 2023)
 *Senior Manager Technical Communications at HP Inc.*
 
 I have previously worked with Chris at IBM as his information development manager for approximately 10 years. Chris 
@@ -80,7 +78,7 @@ work with.
 I know that any employer will be very lucky to hire a person of the calibre of Chris and I am very happy to be able to give 
 him this very strong recommendation.
 
-## [Dan Bajema](https://www.linkedin.com/in/dan-bajema-4aa7181) \(April 4, 2023)
+## <a href="https://www.linkedin.com/in/dan-bajema-4aa7181" target="_blank">Dan Bajema</a> \(April 4, 2023)
 *Level 3 scrum master at IBM: Storage Insights & Spectrum Control*
 
 I've had the privilege of working closely with Chris for over a decade. He is an excellent writer who has proven time and 
@@ -96,7 +94,7 @@ released.
 
 It's a pleasure to work with Chris!
 
-## [Eugene O'Connor](https://www.linkedin.com/in/eugene-o-connor-tech-content) \(April 3, 2023)
+## <a href="https://www.linkedin.com/in/eugene-o-connor-tech-content" target="_blank">Eugene O'Connor</a> \(April 3, 2023)
 *Advisory Information Developer at IBM*
 
 I worked with Chris for 9+ years on the IBM Spectrum Control and IBM Storage Insights products. He was the Information 
@@ -110,14 +108,14 @@ Chris is also a great team player -- he readily made himself available for discu
 He’s also warm, friendly, and fun to work with. It was a real pleasure to work with Chris and I would strongly recommend 
 him to any potential employer.
 
-## [Yolanda Martinez](https://www.linkedin.com/in/yolanda-martinez-66131350) \(April 1, 2023)
+## <a href="https://www.linkedin.com/in/yolanda-martinez-66131350" target="_blank">Yolanda Martinez</a> \(April 1, 2023)
 *Information Experience Manager at VMware*
 
 I had the pleasure of working with Chris since 2002 when I was his manager at IBM. He is an excellent writer, strong team
 leader, with a passion for creating an excellent user experience. He is highly skilled in agile methodologies and Design 
 Thinking. Chris will be an excellent addition for any organization that understands the value of quality documentation.
 
-## [David Warnke](https://www.linkedin.com/in/david-warnke-4b1339121) \(March 23, 2023)
+## <a href="https://www.linkedin.com/in/david-warnke-4b1339121" target="_blank">David Warnke</a> \(March 23, 2023)
 *Software Engineer at IBM*
 
 I have worked with Chris at IBM from June 2009 to the present, primarily on the IBM Spectrum Control product and the 
@@ -135,7 +133,7 @@ information development and social media work, and he communicates openly and ef
 
 I would gladly work with Chris again and again...and I unequivocally recommend him to any organization.
 
-## [Deborah Sparks](https://www.linkedin.com/in/deborah-sparks-051b2743) \(March 22, 2023)
+## <a href="https://www.linkedin.com/in/deborah-sparks-051b2743" target="_blank">Deborah Sparks</a> \(March 22, 2023)
 *Lead/Senior Technical Writer at Hitachi Vantara*
 
 I worked with Chris for over 10 years at IBM and Capgemini. He is the best technical writer I have ever worked with. And I 
@@ -147,7 +145,7 @@ He is respected by his peers, his managers, and the stakeholders he works with. 
 needs whenever possible by implementing innovative solutions. If you are looking for someone who you do not need to 
 manage at all and who makes your product shine, he's the writer for you.
 
-## [John Walsh](https://www.linkedin.com/in/john-walsh-344bb6139) \(March 21, 2023)
+## <a href="https://www.linkedin.com/in/john-walsh-344bb6139" target="_blank">John Walsh</a> \(March 21, 2023)
 *Senior Information Developer at IBM*
 
 I worked with Chris at IBM for a number of years on the Spectrum Control and Storage Insights products. 

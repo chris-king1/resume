@@ -7,7 +7,7 @@ Cedar Park, TX 78613
 512.517.1812
 
 Email: <ck9252@gmail.com>  
-LinkedIn: <https://www.linkedin.com/in/chris-king-b2475b8/>
+LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>
 
 ## About me
 

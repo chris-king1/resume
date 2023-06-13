@@ -5,7 +5,7 @@
 * Research, write, and update technical content in DITA/XML. Use highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Plan, manage, and organize the structure of end-user publications and user assistance, which includes ~10,000 DITA-based topics of technical content.
 * Edit all technical content and customer communication for multiple teams and products.
-* Develop and implement strategies to improve the UX and information experiences of [on-premises](https://www.ibm.com/docs/en/spectrum-control/5.4.10) and [off-premises (SaaS)](https://www.ibm.com/docs/en/storage-insights) storage management and reporting applications. 
+* Develop and implement strategies to improve the UX and information experiences of <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications. 
 * Work closely with UX designers and product stakeholders to review UX designs and ensure the best possible information experience for users. Provide detailed feedback 
 and edit UI microcopy to improve the product journey.
 * Write, review, and edit all customer communication for a SaaS / Cloud-based application. This communication includes in-app notifications, welcome letters, emails, urgent requests, security notifications, support documents, and beta updates. 
