@@ -14,6 +14,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tooltips
 
   language: en
   palette:
@@ -49,7 +50,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - abbr
   - attr_list
+  - pymdownx.snippets
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
