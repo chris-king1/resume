@@ -1,13 +1,3 @@
-## Contact information
-
-Chris King  
-1905 Clay Ln  
-Cedar Park, TX 78613  
-512.517.1812
-
-Email: <ck9252@gmail.com>  
-LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>
-
 ## About me
 
 I'm an experienced technical writer, information architect, team leader, and user experience professional in software development. In my roles, I'm a passionate advocate for users and for the design, development, and delivery of quality technical content. 
@@ -24,3 +14,13 @@ Great documentation, help, and in-app assistance provide users with the answers 
 * Detailed-oriented writer with proven skills in managing large volumes of information and multitasking in an agile, deadline-driven environment.
 * Strong communication and organization skills. Experience collaborating with software developers, engineers, UX designers, QA, product architects, offering managers, 
 technical support, writers, editors, translators, sales staff, and other key stakeholders.
+
+## Contact information
+
+Chris King  
+1905 Clay Ln  
+Cedar Park, TX 78613  
+512.517.1812
+
+Email: <ck9252@gmail.com>  
+LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>
