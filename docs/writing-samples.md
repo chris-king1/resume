@@ -50,7 +50,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 * Blog post: <a href="https://community.ibm.com/community/user/storage/blogs/christopher-king1/2020/12/15/ibm-storage-insights-data-collector-best-practices" target="_blank">https://community.ibm.com/community/user/storage/blogs/christopher-king1/2020/12/15/ibm-storage-insights-data-collector-best-practices</a>
 * Blog post: <a href="https://community.ibm.com/community/user/storage/blogs/christopher-king1/2020/08/19/ibm-storage-insights-pearls-2020" target="_blank">https://community.ibm.com/community/user/storage/blogs/christopher-king1/2020/08/19/ibm-storage-insights-pearls-2020</a>
 
-## IBM Support articles
+## IBM Technical Support articles
 
 * <a href="https://www.ibm.com/support/pages/node/6611387" target="_blank">https://www.ibm.com/support/pages/node/6611387</a>
 * <a href="https://www.ibm.com/support/pages/node/6454595" target="_blank">https://www.ibm.com/support/pages/node/6454595</a>
@@ -60,3 +60,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 * <a href="https://www.ibm.com/support/pages/node/6474525" target="_blank">https://www.ibm.com/support/pages/node/6474525</a>
 * <a href="https://www.ibm.com/support/pages/node/6449752" target="_blank">https://www.ibm.com/support/pages/node/6449752</a>
 * <a href="https://www.ibm.com/support/pages/node/1109943" target="_blank">https://www.ibm.com/support/pages/node/1109943</a>
+
+!!! note "More writing samples"
+
+    More links to my writing samples are available upon request.

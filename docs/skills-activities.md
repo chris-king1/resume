@@ -58,6 +58,7 @@
 * Information Development Professionals
 * Information Development Managers and Leads
 * Metrics work group
+* SaaS DevOps communication lead
 * SaaS work group lead
 * Source control lead (IDCMS, GitHub)
 * Technical Content (IBM Global) Initiative
