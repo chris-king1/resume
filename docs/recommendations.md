@@ -34,7 +34,7 @@ product and he can answer us at anytime regarding any query. I always feel pleas
 time spent with him. I learned a lot from him personally and professionally.
 
 ## <a href="https://www.linkedin.com/in/alifiya-kantawala-767891b" target="_blank">Alifiya Kantawala</a> \(May 3, 2023)
-*Sr. Manager - Information Developer at Capgemini*
+*Sr. Manager and Information Developer at Capgemini*
 
 Chris is an extremely talented, detail oriented, and versatile technical writer. We have worked together on a project for 
 more than two years. He is patient with the changes required and does not mind going beyond his job responsibilities as 
@@ -42,7 +42,7 @@ long it benefits the project. He is technically very sound and very helpful. Und
 and processes very quickly.
 
 A good team member and an excellent person to be with. He can build rapport and work with anyone across the globe. 
-Working with him has been a very good experience. I wish him all the best for his future endeavors
+Working with him has been a very good experience.
 
 ## <a href="https://www.linkedin.com/in/johanna-hislop-076b9b7" target="_blank">Johanna Hislop</a> \(April 15, 2023)
 *Senior Software Engineer at IBM*
@@ -79,7 +79,7 @@ I know that any employer will be very lucky to hire a person of the calibre of C
 him this very strong recommendation.
 
 ## <a href="https://www.linkedin.com/in/dan-bajema-4aa7181" target="_blank">Dan Bajema</a> \(April 4, 2023)
-*Level 3 scrum master at IBM: Storage Insights & Spectrum Control*
+*Level 3 scrum master at IBM for Storage Insights & Spectrum Control*
 
 I've had the privilege of working closely with Chris for over a decade. He is an excellent writer who has proven time and 
 again dedication to his craft, and to the customer. 
