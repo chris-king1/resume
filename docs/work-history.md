@@ -1,5 +1,7 @@
 # Work history
 
+View the details of my work history as a technical writer and information architect. I can provide more details about each position upon request.
+
 ## \(2010 – present) **Capgemini / IBM**: Information Architect and Lead Technical Writer
 
 * Research, write, and update technical content in DITA/XML. Use highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 

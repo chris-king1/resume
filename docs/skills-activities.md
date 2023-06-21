@@ -1,5 +1,7 @@
 # Skills and activities
 
+View a list of my skills and activities. I can provide more details and proficiency levels upon request.
+
 ## Markup languages
 
 * DITA

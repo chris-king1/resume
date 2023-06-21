@@ -1,5 +1,7 @@
 # Recommendations
 
+View the recommendations that I've received from my professional colleagues in my role as a technical writer and information architect.
+
 ## <a href="https://www.linkedin.com/in/charisa-antigua-729b475/" target="_blank">Charisa Antigua</a> \(May 26, 2023)
 *CEO & Chief Science Officer at Oscar Newman*
 
