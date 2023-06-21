@@ -37,6 +37,7 @@ extra:
       link: https://twitter.com/Chris_TKing
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/chris-king-b2475b8/
+  generator: false    
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -61,8 +62,8 @@ markdown_extensions:
 
 nav:
     - 'index.md'
-    - 'work-history.md'
-    - 'skills-activities.md'
+    - History: 'work-history.md'
+    - Skills: 'skills-activities.md'
     - 'writing-samples.md'
     - 'recommendations.md'
     - 'learning.md'
