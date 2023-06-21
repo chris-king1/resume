@@ -11,6 +11,7 @@
 
 * Abortext Epic Editor
 * Adobe Illustrator
+* Adobe Acrobat
 * Camtasia
 * Dreamweaver
 * Drupal
@@ -23,7 +24,7 @@
 * Powerpoint
 * MkDocs
 * Mural
-* WalkMe (DAP)
+* WalkMe (Builder certified)
 * Word
 
 ## Production tools and process
@@ -33,14 +34,14 @@
 * CDM (Continuous Delivery Methodology)
 * CMVC
 * DCS
-* Design Thinking
+* Design Thinking (IBM)
 * GitHub / GitHub Desktop
 * IBM Docs
 * IDCMS
 * IEHS
 * Jira
 * KC (Knowledge Center)
-* KC CI
+* KC CI (contextual online help)
 * Rational Team Concert (RTC)
 * Scrum
 * SEO
