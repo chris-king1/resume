@@ -1,4 +1,4 @@
-# Learning activities
+# Learning
 
 ## In-progress training
 
@@ -13,7 +13,7 @@
 * IBM Design Thinking (onsite, week-long workshop in 2018)
 * Git and GitHub
 * Markdown
-* SEO:Keyword Strategy
+* SEO: Keyword Strategy
 * Understanding Information Architecture
 * User Experience Insights
 * User Experience (UX) for Non-Designers

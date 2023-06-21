@@ -62,8 +62,8 @@ markdown_extensions:
 nav:
     - 'index.md'
     - 'work-history.md'
-    - 'writing-samples.md'
     - 'skills-activities.md'
+    - 'writing-samples.md'
     - 'recommendations.md'
     - 'learning.md'
 
