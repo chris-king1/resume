@@ -5,7 +5,7 @@ View the topics, blog posts, and technical support articles that I've written fo
 ## [IBM Storage Insights](https://www.ibm.com/docs/en/storage-insights "View the complete documentation for IBM Storage Insights")
 IBM Storage Insights is a SaaS / cloud-based, storage monitoring application.
 
-* What's new: <a href="https://www.ibm.com/docs/en/storage-insights?topic=whats-new" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=whats-new</a>
+* Change history: <a href="https://www.ibm.com/docs/en/storage-insights?topic=new-change-history" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=new-change-history</a>
 * Security Sheet: <a href="https://www.ibm.com/docs/en/SSQRB8/pdf/IBM_Storage_Insights_Security_Sheet.pdf" target="_blank">https://www.ibm.com/docs/en/SSQRB8/pdf/IBM_Storage_Insights_Security_Sheet.pdf</a>
 * Getting Started: <a href="https://www.ibm.com/docs/en/SSQRB8/pdf/IBM_Storage_Insights_Getting_Started_Guide.pdf" target="_blank">https://www.ibm.com/docs/en/SSQRB8/pdf/IBM_Storage_Insights_Getting_Started_Guide.pdf</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/storage-insights?topic=started-before-you-begin-checklist" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=started-before-you-begin-checklist</a>
