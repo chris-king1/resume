@@ -29,5 +29,4 @@ LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_bla
 ## Education
 
 B.A., English \(with emphasis on Technical Writing)  
-Northern Illinois University  
-1991
+Northern Illinois University
