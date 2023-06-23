@@ -26,7 +26,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Powerpoint
 * MkDocs
 * Mural
-* WalkMe (Builder certified)
+* [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This layer helps guide users through key tasks and provides contextual information as they navigate the UI. Similar products: Pendo, Whatfix, Appcues.") (Builder certified)
 * Word
 
 ## Production tools and process
