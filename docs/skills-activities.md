@@ -6,7 +6,7 @@ View a list of my skills and activities. I can provide more details and proficie
 
 * DITA
 * HTML
-* Markdown
+* [Markdown]("Includes proficiency with MkDocs and MkDocs for Material.")
 * XML
 
 ## Authoring tools
