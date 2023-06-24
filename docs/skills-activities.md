@@ -44,7 +44,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Jira
 * KC (Knowledge Center)
 * KC CI (contextual online help)
-* Rational Team Concert (RTC)
+* Rational Team Concert (with Eclipse IDE)
 * Scrum
 * SEO
 * Slack
