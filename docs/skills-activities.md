@@ -48,6 +48,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Scrum
 * SEO
 * Slack
+* Systems Development Life Cycle (SDLC)
 * Trello
 * WFM
 * ZenHub
