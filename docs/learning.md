@@ -1,6 +1,6 @@
 # Learning
 
-View the training courses that I'm taking to help expand and refesh my technical writing, editing, and information architecture skills. 
+View the training courses that I'm taking to help expand and refresh my technical writing, editing, and information architecture skills. 
 
 ## In-progress training
 
