@@ -42,6 +42,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined</a>
 
+<id="social-media">
 ## Social media
 
 * Blog post: <a href="https://www.linkedin.com/pulse/what-makes-ibm-storage-insights-secure-way-monitor-your-chris-king" target="_blank">https://www.linkedin.com/pulse/what-makes-ibm-storage-insights-secure-way-monitor-your-chris-king</a>

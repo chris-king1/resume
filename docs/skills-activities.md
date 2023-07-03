@@ -11,7 +11,7 @@ View a list of my skills and activities. I can provide more details and proficie
 
 ## Authoring tools
 
-* Abortext Epic Editor
+* Abortext Epic Editor (XML editor)
 * Adobe Illustrator
 * Adobe Acrobat
 * Camtasia

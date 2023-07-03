@@ -1,23 +1,44 @@
-# Work history
+# Employment history
 
 View the details of my work history as a technical writer and information architect. I can provide more details about each position upon request.
 
-## \(2010 – present) **Capgemini / IBM**: Information Architect and Lead Technical Writer
+## \(October 2021 – June 2023) **Capgemini**: Information Architect and Lead Technical Writer
 
-* Research, write, and update technical content in DITA/XML. Use highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
-* Plan, manage, and organize the structure of end-user publications and user assistance, which includes ~10,000 DITA-based topics of technical content.
-* Edit all technical content and customer communication for multiple teams and products.
-* Develop and implement strategies to improve the UX and information experiences of <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications. 
-* Work closely with UX designers and product stakeholders to review UX designs and ensure the best possible information experience for users. Provide detailed feedback 
-and edit UI microcopy (in Figma).
-* Write, review, and edit all customer communication for a SaaS / Cloud-based application. This communication includes in-app notifications, welcome letters, emails, urgent requests, security notifications, support documents, and beta updates. 
-* Act as a focal point for improving publications, error messages, user assistance, and information delivery. Triage user and technical support feedback.
-* Use metrics and advanced analytics to improve technical content and delivery.
-* Plan the direction for incorporating the latest tools and technology into writing processes.
-* Transform how information developers work by incorporating design thinking principles 
-into daily practices and promote user-centered design for technical content. 
-* Create and maintain terminology guidelines, standards, best practices, and planning information for development, QA, and technical writers.
-* Mentor other writers on authoring tools, technical content, and products.
+The following work for Capgemini is a continuation of the work that I did in my previous role with IBM:
+
+* Researched, wrote, and updated technical content in DITA/XML. Use highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
+* Planned, managed, and organized the structure of end-user publications and user assistance, which included ~10,000 DITA-based topics of technical content.
+* Edited technical documentation, social media content, and customer communication for multiple teams and products. Achieved top performer in the IBM editing workshop that consisted of ~20 technical writers.
+* Administered the production process, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications.
+* Wrote and published social media content for IBM's storage management and reporting applications. [View blog posts](writing-samples.md#social-media).
+* Worked closely with UX designers and product stakeholders to review UX designs, integrate user assistance, and ensure the best possible information experience for users. Provided detailed feedback and edited UI microcopy (in Figma).
+* Maintained and updated the digital adoption platform (WalkMe) that was integrated in the SaaS application.
+* Worked closely with DevOps to write, review, and edit all customer communication for a SaaS application. This communication included in-app notifications, welcome letters, emails, urgent requests, security notifications, support documents, and beta updates. 
+* Acted as a focal point for improving documentation, error messages, user assistance, and information delivery. Triaged user and technical support feedback.
+* Used metrics and advanced analytics to improve technical content and delivery.
+* Planned the direction for incorporating the latest tools and technology into writing processes.
+* Created and maintained terminology guidelines, standards, best practices, and planning information for development, QA, and technical writers.
+* Mentored other writers on authoring tools, technical content, and IBM Storage products.
+* Lead effort to migrate all documentation source files to a new hosting platform (GitHub).
+
+---
+
+## \(2010 – October 2021) **IBM**: Information Architect and Lead Technical Writer
+
+* Researched, wrote, and updated technical content in DITA/XML. Use highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
+* Planned, managed, and organized the structure of end-user publications and user assistance, which included ~10,000 DITA-based topics of technical content.
+* Edited technical content from technical writers, technical support, DevOps, product managers, and beta advocates.
+* Administered the production process, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications. 
+* Worked closely with UX designers and product stakeholders to review UX designs and ensure the best possible information experience for users. Provided detailed feedback and edited UI microcopy (in Adobe InDesign).
+* Lead the effort to implement and improve contextual assistance within multiple applications.
+* Planned, designed, and implemented a digital adoption platform (WalkMe) into a SaaS application to help guide users through key tasks and provide additional contextual information.
+* Worked closely with DevOps to write, review, and edit all customer communication for a SaaS application. This communication included in-app notifications, welcome letters, emails, urgent requests, security notifications, support documents, and beta updates. 
+* Acted as a focal point for improving documentation, error messages, user assistance, and information delivery. Triaged user and technical support feedback.
+* Used metrics and advanced analytics to improve technical content and delivery.
+* Planned the direction for incorporating the latest tools and technology into writing processes.
+* Transformed how information developers work by incorporating design thinking principles into daily practices and promote user-centered design for technical content. 
+* Created and maintained terminology guidelines, standards, best practices, and planning information for development, QA, and technical writers.
+* Mentored other writers on authoring tools, technical content, and IBM Storage products.
 * Lead efforts to migrate the entire information library to new deployment frameworks.
 * Lead effort to incorporate Agile and CD methodologies into the technical writing process; implemented agile task planning, content toggling, and single-stream source control.
 
