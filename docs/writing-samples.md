@@ -2,7 +2,7 @@
 
 View the topics, blog posts, and technical support articles that I've written for on-premises and off-premises (SaaS) storage monitoring and reporting applications.
 
-## [IBM Storage Insights](https://www.ibm.com/docs/en/storage-insights "View the complete documentation for IBM Storage Insights")
+## [IBM Storage Insights](https://www.ibm.com/docs/en/storage-insights "View the complete documentation for IBM Storage Insights.")
 IBM Storage Insights is a SaaS / cloud-based, storage monitoring application.
 
 * Change history: <a href="https://www.ibm.com/docs/en/storage-insights?topic=new-change-history" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=new-change-history</a>
@@ -25,7 +25,7 @@ IBM Storage Insights is a SaaS / cloud-based, storage monitoring application.
 * Reference topic: <a href="https://www.ibm.com/docs/en/storage-insights?topic=troubleshooting-getting-support" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=troubleshooting-getting-support</a>
 * Error message: <a href="https://www.ibm.com/docs/en/storage-insights?topic=bsm-bpcss2054e-device-cant-be-added-because-older-tls-protocols-are-disabled" target="_blank">https://www.ibm.com/docs/en/storage-insights?topic=bsm-bpcss2054e-device-cant-be-added-because-older-tls-protocols-are-disabled</a>
 
-## [IBM Spectrum Control](https://www.ibm.com/docs/en/spectrum-control "View the complete documentation for IBM Spectrum Control")
+## [IBM Spectrum Control](https://www.ibm.com/docs/en/spectrum-control "View the complete documentation for IBM Spectrum Control.")
 IBM Spectrum Control is an on-premises, storage monitoring application.
 
 * What's new: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=whats-new" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=whats-new</a>
@@ -41,6 +41,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=overview-virtual-storage-center" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=overview-virtual-storage-center</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined</a>
+* Troubleshooting topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=dt-host-connections-ds8000-storage-systems-are-not-being-displayed" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=dt-host-connections-ds8000-storage-systems-are-not-being-displayed</a>
 
 <id="social-media">
 ## Social media
