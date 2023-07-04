@@ -4,7 +4,7 @@ View the details of my employment history as a technical writer and information 
 
 ## \(October 2021 – June 2023) **Capgemini**: Information Architect and Lead Technical Writer
 
-The following work for Capgemini is a continuation of the work that I did in my previous role with IBM:
+The following work for Capgemini is a continuation my role with IBM:
 
 * Researched, wrote, and updated technical content in DITA/XML. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Planned, managed, and organized the structure of end-user documentation and user assistance, which included ~10,000 DITA-based topics of technical content.
@@ -25,7 +25,7 @@ The following work for Capgemini is a continuation of the work that I did in my 
 
 ## \(2010 – October 2021) **IBM**: Information Architect and Lead Technical Writer
 
-As an Information Architect and Technical Writer, I developed strategies to improve the information experience in enterprise-class, storage management software and manage the organization, structure, and accessibility of all end-user documentation, user assistance, and messages. 
+As an Information Architect and Technical Writer, I developed strategies to improve the information experience in enterprise-class, storage management applications. I managed the organization, structure, translation, and accessibility of all end-user documentation, user assistance, and messages. 
 
 * Researched, wrote, and updated technical content in DITA/XML. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Planned, managed, and organized the structure of end-user documentation and user assistance, which included ~10,000 DITA-based topics of technical content.
