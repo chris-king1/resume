@@ -15,6 +15,8 @@ Great documentation, help, and in-app assistance provide users with the answers 
 * Strong communication and organization skills. Experience collaborating with software developers, engineers, UX designers, QA, product architects, offering managers, 
 technical support, writers, editors, translators, sales staff, and other key stakeholders.
 
+<a href="../Chris-King-Resume-2023.pdf" target="_blank">Download the PDF version of my resume.</a> 
+
 ## Contact information
 
 Chris King  
