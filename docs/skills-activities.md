@@ -14,6 +14,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Abortext Epic Editor (XML editor)
 * Adobe Illustrator
 * Adobe Acrobat
+* Box
 * Camtasia
 * Dreamweaver
 * Drupal
@@ -26,6 +27,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Powerpoint
 * MkDocs
 * Mural
+* RoboHelp
 * [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This layer helps guide users through key tasks and provides contextual information as they navigate the UI. Similar products: Pendo, Whatfix, Appcues.") (Builder certified)
 * Word
 
@@ -39,14 +41,16 @@ View a list of my skills and activities. I can provide more details and proficie
 * Design Thinking (IBM)
 * GitHub / GitHub Desktop
 * IBM Docs
-* IDCMS
-* IEHS
+* [IDCMS]("IDCMS was IBM's content management system for technical writing team to store their source files (DITA, SVG, JPG, MP4, and other file types) for single-source building.")
+* [IEHS]("IEHS was IBM's online help system for embedding user assistance within on-premises applications. This customized help system was based on the Eclipse help framework.")
 * Jira
 * KC (Knowledge Center)
 * KC CI (contextual online help)
+* Project management and artifacts (epics, stories, tasks, defects)
 * Rational Team Concert (with Eclipse IDE)
 * Scrum
 * SEO
+* Single source tools and processes
 * Slack
 * Systems Development Life Cycle (SDLC)
 * Trello
