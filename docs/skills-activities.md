@@ -55,7 +55,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Systems Development Life Cycle (SDLC)
 * [Translation]("I led the effort to manage the translation and publication of documentation and online help to 12 languages for over 10 years.")
 * Trello
-* WFM
+* [WFM]("Workflow Manager is IBM's single-source tool for building DITA and markdown source files into multiple output formats and languages. At IBM and Capgemini, I led the effort to integrate and use WFM with over 10,000 DITA files for multiple products.")
 * ZenHub
 
 ## Professional activities and work groups 
@@ -63,9 +63,10 @@ View a list of my skills and activities. I can provide more details and proficie
 * IBM Content DevOps
 * IBM Design Thinking Workshops (2015, 2018)
 * IBM Docs beta tester
-* Information Architect Practitioners
-* Information Development Professionals
-* Information Development Managers and Leads
+* Information Architect Practitioners work group
+* Information Development Professionals work group
+* Information Development Managers and Team Leads work group
+* Information Development team lead
 * Metrics work group
 * SaaS DevOps communication lead
 * SaaS work group lead
@@ -73,5 +74,5 @@ View a list of my skills and activities. I can provide more details and proficie
 * Technical Content (IBM Global) Initiative
 * Technical editing work group
 * UX review work group lead
-* WalkMe workgroup lead
+* WalkMe work group lead
 * <a href="../IBM-Storage-Insights-60-seconds-or-less.mp4" target="_blank">Winner of the IBM Technical Content Challenge \(2020)</a>
