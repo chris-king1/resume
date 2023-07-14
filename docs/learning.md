@@ -1,10 +1,11 @@
 # Learning
 
-View the training courses that I'm taking to help expand and refresh my technical writing, editing, and information architecture skills. These training courses are available on LinkedIn at <a href="https://www.linkedin.com/learning/" target="_blank">https://www.linkedin.com/learning/</a>.
+View the training courses that I'm taking to help expand and refresh my technical writing, editing, and information architecture skills. Many of these training courses are available on LinkedIn at <a href="https://www.linkedin.com/learning/" target="_blank">https://www.linkedin.com/learning/</a>.
 
 ## In-progress training
 
 * Advanced Grammar
+* Creating API documentation
 * GitHub Quick Tips
 
 ## Completed training (2023)
