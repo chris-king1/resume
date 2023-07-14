@@ -53,6 +53,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Single source tools and processes
 * Slack
 * Systems Development Life Cycle (SDLC)
+* [Translation]("I led the effort to manage the translation and publication of documentation and online help to 12 languages for over 10 years.")
 * Trello
 * WFM
 * ZenHub

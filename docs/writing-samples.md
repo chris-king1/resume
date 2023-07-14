@@ -41,6 +41,8 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=overview-virtual-storage-center" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=overview-virtual-storage-center</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=configuration-ports-used-by-spectrum-control</a>
 * Reference topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=resources-how-condition-resource-is-determined</a>
+* API topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=uragr-retrieve-data-by-using-rest-api-command-line-utility" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=uragr-retrieve-data-by-using-rest-api-command-line-utility</a>
+* API topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=uragr-retrieve-data-by-using-rest-apis-web-browser" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=uragr-retrieve-data-by-using-rest-apis-web-browser</a>
 * Troubleshooting topic: <a href="https://www.ibm.com/docs/en/spectrum-control/latest?topic=dt-host-connections-ds8000-storage-systems-are-not-being-displayed" target="_blank">https://www.ibm.com/docs/en/spectrum-control/latest?topic=dt-host-connections-ds8000-storage-systems-are-not-being-displayed</a>
 
 <id="social-media">
