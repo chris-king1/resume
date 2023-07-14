@@ -4,7 +4,7 @@ View the details of my employment history as a technical writer and information 
 
 ## \(October 2021 – June 2023) **Capgemini**: Information Architect and Lead Technical Writer
 
-The following work for Capgemini is a continuation my role with IBM:
+The following work for Capgemini is a continuation of my role with IBM:
 
 * Researched, wrote, and updated technical content in DITA/XML. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Planned, managed, and organized the structure of end-user documentation and user assistance, which included ~10,000 DITA-based topics of technical content.
@@ -48,10 +48,10 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 ## \(2002 – 2010) **IBM**: Information Developer
 
-* Researched, wrote, and updated technical content for off-premises storage management applications.
+* Researched, wrote, and updated technical content for off-premises, storage management and reporting applications.
 * Collaborated with product stakeholders to provide users with a comprehensive set of technical content, including user assistance, knowledge centers, user guides, installation guides, CLI guides, administrator guides, and messages.
 * Migrated documentation library from non-IBM format to IBM styles and standards.
-* Rewrote documentation to be topic based and goal oriented.
+* Rewrote documentation to be topic-based and goal-oriented.
 * Trained new writers on tools, processes, and storage management applications.
 * Developed methods for tracking and building contextual user assistance.
 * Acted as focal point for technical content and user assistance. Triaged user feedback.
@@ -74,7 +74,7 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 ## \(1999 – 2001) **RIMS**: Senior Technical Writer
 
-* Wrote, edited, and maintained documentation for healthcare-related software applications.
+* Wrote, edited, and maintained documentation (with FrameMaker) for healthcare-related software applications.
 * Designed, wrote, and updated context-sensitive online help systems. 
 * Wrote and edited the functional specifications for each software release.
 * Established standards, templates, and documentation processes.
@@ -87,8 +87,8 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 ## \(1994 – 1999) **PLATINUM Technology**: Senior Technical Writer 
 
-* Wrote, edited, and maintained technical documentation and online help systems for mainframe and client-server applications. Worked on a team of 20+ technical writers.
-* Helped develop department-wide product documentation standards and procedures.
+* Wrote, edited, and maintained technical documentation (with FrameMaker) and online help systems for mainframe and client-server applications. Worked on a team of 20+ technical writers.
+* Helped develop department-wide product documentation styles, standards and procedures.
 * Assisted in developing and managing online documentation and internet initiatives and policies. Provided customers with technical support for using online documentation.
 * Researched, developed, and supported procedures for using the latest tools and technology related to documentation and online help (Acrobat, BookManager, HTML, XML). Developed procedures for converting documentation to various online formats (PDF, HTML, XML).
 * Provided technical support on tools and technology to other technical writers within the company (RoboHELP, FrameMaker, BookManager).
