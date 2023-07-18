@@ -61,7 +61,7 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 ## \(2001 – 2002) **Trellisoft**: Senior Technical Writer
 
-* Wrote, edited, and maintained all technical publications and training courses for Trellisoft’s suite of storage-management products.
+* Wrote, edited, and maintained all technical publications and training courses for Trellisoft’s suite of storage management and reporting applications.
 * Designed, wrote, and updated context-sensitive online help systems. Authored the functional specifications and guidelines for the design and implementation of user assistance.
 * Established standards, templates, and documentation processes.
 * Helped design, create, and launch the Trellisoft website. Updated the website with news, events, and announcements. Added features as needed, such as new navigation, e-commerce, registration forms, live demos, and product downloads.
@@ -74,7 +74,7 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 ## \(1999 – 2001) **RIMS**: Senior Technical Writer
 
-* Wrote, edited, and maintained documentation (with FrameMaker) for healthcare-related software applications.
+* Wrote, edited, and maintained documentation (with FrameMaker) for healthcare-related, software applications.
 * Designed, wrote, and updated context-sensitive online help systems. 
 * Wrote and edited the functional specifications for each software release.
 * Established standards, templates, and documentation processes.
