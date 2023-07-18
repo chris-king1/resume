@@ -36,7 +36,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * Acrolinx
 * Agile
 * CDM (Continuous Delivery Methodology)
-* CMS (Content Management Systems)
+* CCMS / CMS (Component and Content Management Systems)
 * CMVC (IBM Configuration Management Version Control)
 * DCS (IBM Digital Content Services)
 * Design Thinking (IBM)
