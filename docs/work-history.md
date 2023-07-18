@@ -6,10 +6,10 @@ View the details of my employment history as a technical writer and information 
 
 The following work for Capgemini is a continuation of my role with IBM:
 
-* Researched, wrote, and updated technical content in DITA/XML. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
+* Researched, wrote, and updated technical content in DITA/XML for enterprise-level, storage management and reporting applications. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Planned, managed, and organized the structure of end-user documentation and user assistance, which included ~10,000 DITA-based topics of technical content.
 * Edited technical documentation, social media content, and customer communication for multiple teams and products. Achieved top performer in the IBM editing workshop that consisted of ~20 technical writers.
-* Administered the production processes, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications.
+* Administered the production processes, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> applications.
 * Wrote and published [social media content](writing-samples.md#social-media) for IBM's storage management and reporting applications.
 * Worked closely with UX designers and product stakeholders to review UX designs, integrate user assistance, and ensure a good information experience for users. Provided detailed feedback and edited UI microcopy (in Figma).
 * Maintained and updated the digital adoption platform (WalkMe) in the SaaS application.
@@ -27,10 +27,10 @@ The following work for Capgemini is a continuation of my role with IBM:
 
 As an Information Architect and Technical Writer, I developed strategies to improve the information experience in enterprise-class, storage management applications. I managed the organization, structure, translation, and accessibility of all end-user documentation, user assistance, and messages. 
 
-* Researched, wrote, and updated technical content in DITA/XML. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
+* Researched, wrote, and updated technical content in DITA/XML for enterprise-level, storage management and reporting applications. Used highly-structured, topic-based writing and an HTML-based framework to deliver that content to users. 
 * Planned, managed, and organized the structure of end-user documentation and user assistance, which included ~10,000 DITA-based topics of technical content.
 * Edited technical content from technical writers, technical support, DevOps, product managers, and beta advocates.
-* Administered the production processes, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> storage management and reporting applications. 
+* Administered the production processes, translation, and publication of documentation to ibm.com for <a href="https://www.ibm.com/docs/en/spectrum-control/5.4.10" target="_blank">on-premises</a> and <a href="https://www.ibm.com/docs/en/storage-insights" target="_blank">off-premises (SaaS)</a> applications. 
 * Worked closely with UX designers and product stakeholders to review UX designs and ensure a good information experience for users. Provided detailed feedback and edited UI microcopy (in Adobe InDesign).
 * Lead the effort to implement and improve contextual assistance within multiple applications.
 * Planned, designed, and implemented a digital adoption platform (WalkMe) in the SaaS application to help guide users through key tasks and provide additional contextual information.
