@@ -76,8 +76,8 @@ As an Information Architect and Technical Writer, I developed strategies to impr
 
 * Wrote, edited, and maintained documentation (with FrameMaker) for healthcare-related, software applications.
 * Designed, wrote, and updated context-sensitive online help systems. 
-* Wrote and edited the functional specifications for each software release.
-* Established standards, templates, and documentation processes.
+* Wrote and edited the functional specifications for each release of a software application.
+* Established documentation standards, styles, templates, and processes.
 
 !!! note "About RIMS"
 

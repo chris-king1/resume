@@ -5,11 +5,11 @@ View the training courses that I'm taking to help expand and refresh my technica
 ## In-progress training
 
 * Advanced Grammar
-* Creating API documentation
 * GitHub Quick Tips
 
 ## Completed training (2023)
 
+* Creating API documentation
 * Editing Mastery: How to Edit Writing to Perfection
 * Git from Scratch
 * IBM Design Thinking (onsite, week-long workshop in 2018)

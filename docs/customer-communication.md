@@ -1,6 +1,6 @@
 # Customer communication
 
-View the customer communication that I wrote for a SaaS application. As the lead technical writer, I worked closely with DevOps to write emails and in-app notifications to address many conditions and events related to the application. These situations included customer onboarding, urgent news, nurture requests, security alerts, service interruptions, beta updates, important reminders, new releases, feature updates, and more. 
+View the customer communication that I wrote for a SaaS application. As the lead technical writer, I worked closely with DevOps to write over 30 emails and in-app notifications to address many conditions and events related to the application. These situations included customer onboarding, urgent news, nurture requests, security alerts, service interruptions, beta updates, important reminders, new releases, feature updates, and more. 
 
 ## In-app notification for a major update to the application
 

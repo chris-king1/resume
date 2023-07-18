@@ -9,19 +9,19 @@ Great documentation, help, and in-app assistance provide users with the answers 
 ## Experience
 
 * **30+ years** as a technical writer that includes planning, writing, updating, and editing technical documentation, user assistance, UX designs, websites, and social media.
-* **19+ years** as the team lead for a group of domestic and international writers.
+* **15+ years** as the team lead for a group of domestic and international writers.
 * **13+ years** as an information architect for enterprise-class, software applications.
 * Detailed-oriented writer with proven skills in managing large volumes of information and multitasking in an agile, deadline-driven environment.
-* Strong communication and organization skills. Experience collaborating with software developers, engineers, UX designers, QA, product architects, offering managers, technical support, writers, editors, translators, sales staff, and other key stakeholders.
+* Strong communication and organization skills. Experience collaborating with developers, DevOps, editors, engineers, marketing, product architects, product managers, QA, technical support, translators, sales, UX designers, and other key stakeholders.
 
 <a href="Chris-King-Resume-2023.pdf" target="_blank">Download the PDF version of my resume.</a> 
 
 ## Contact information
 
 Chris King  
-1905 Clay Ln  
-[Cedar Park]("Cedar Park is a suburb of Austin with a population of 74,741."), TX 78613  
-512.517.1812
+[Cedar Park]("Cedar Park is a suburb of Austin with a population of 74,741."), TX <!-- 78613 --> 
+<!-- 1905 Clay Ln -->
+<!-- 512.517.1812 -->
 
 Email: <ck9252@gmail.com>  
 LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>  
