@@ -61,8 +61,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
-plugins:
-  - glightbox
+# plugins:
+#  - glightbox
 
 # Page tree
 
