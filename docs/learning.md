@@ -6,6 +6,7 @@ View the training courses that I'm taking to help expand and refresh my technica
 
 * Advanced Grammar
 * GitHub Quick Tips
+* Learning Confluence
 
 ## Completed training (2023)
 
