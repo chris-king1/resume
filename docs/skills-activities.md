@@ -29,6 +29,8 @@ View a list of my skills and activities. I can provide more details and proficie
 * Mural
 * RoboHelp
 * [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This added layer can help guide users through key tasks and provides contextual information as they navigate the UI. Similar products: Pendo, Whatfix, Appcues.") (Builder certified)
+* Shopify
+* Wix
 * Word
 
 ## Production tools and process
