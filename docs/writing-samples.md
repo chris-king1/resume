@@ -1,5 +1,7 @@
 # Portfolio
 
+![Austin](images/banner-portfolio.jpg)
+
 View the topics, blog posts, and technical support articles that I've written for on-premises and off-premises (SaaS) storage monitoring and reporting applications.
 
 ## [IBM Storage Insights](https://www.ibm.com/docs/en/storage-insights "View the complete documentation for IBM Storage Insights.")

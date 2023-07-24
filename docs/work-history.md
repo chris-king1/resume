@@ -1,5 +1,7 @@
 # Employment history
 
+![Austin](images/banner-employment-history.jpg)
+
 View the details of my employment history as a technical writer and information architect. I can provide more details about each position upon request.
 
 ## \(October 2021 – June 2023) **Capgemini**: Information Architect and Lead Technical Writer
