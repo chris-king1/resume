@@ -1,5 +1,7 @@
 # Skills and activities
 
+![Skills](images/banner-skills.jpg)
+
 View a list of my skills and activities. I can provide more details and proficiency levels upon request.
 
 ## Markup languages
@@ -23,12 +25,12 @@ View a list of my skills and activities. I can provide more details and proficie
 * Framemaker
 * Gimp
 * Inkscape
-* oXygen XML Editor
+* oXygen XML Editor (expert)
 * Powerpoint
 * MkDocs
 * Mural
 * RoboHelp
-* [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This added layer can help guide users through key tasks and provides contextual information as they navigate the UI. Similar products: Pendo, Whatfix, Appcues.") (Builder certified)
+* [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This added layer can help guide users through key tasks and provides contextual information as they navigate the UI. I was certified as a WalkMe Builder in 2021 through the official certification program. Similar products to WalkMe: Pendo, Whatfix, Appcues.") (Builder certified)
 * Shopify
 * Wix
 * Word
@@ -40,6 +42,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * CDM (Continuous Delivery Methodology)
 * CCMS / CMS (Component and Content Management Systems)
 * CMVC (IBM Configuration Management Version Control)
+* Confluence (working knowledge)
 * DCS (IBM Digital Content Services)
 * Design Thinking (IBM)
 * Docs as Code
@@ -49,7 +52,7 @@ View a list of my skills and activities. I can provide more details and proficie
 * [IEHS]("IEHS was IBM's online help system for embedding user assistance within on-premises applications. This customized help system was based on the Eclipse help framework.")
 * Jira
 * KC (Knowledge Center)
-* KC CI (contextual online help)
+* KC CI (contextual online help framework)
 * Project management and artifacts (epics, stories, tasks, defects)
 * Rational Team Concert (with Eclipse IDE)
 * Scrum

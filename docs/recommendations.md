@@ -1,5 +1,7 @@
 # Recommendations
 
+![Recommendations](images/banner-recommendations.jpg)
+
 View the recommendations that I've received from my professional colleagues in my role as a technical writer and information architect. You can also view these recommendations directly on my LinkedIn page at <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>.
 
 ## <a href="https://www.linkedin.com/in/charisa-antigua-729b475/" target="_blank">Charisa Antigua</a> \(May 26, 2023)
