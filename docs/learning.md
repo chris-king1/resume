@@ -8,7 +8,7 @@ View the training courses that I'm taking to help expand and refresh my technica
 
 * Advanced Grammar
 * GitHub Quick Tips
-* Learning Confluence
+* Learning Confluence Administration
 
 ## Completed training (2023)
 
@@ -17,6 +17,7 @@ View the training courses that I'm taking to help expand and refresh my technica
 * Git from Scratch
 * IBM Design Thinking (onsite, week-long workshop in 2018)
 * Git and GitHub
+* Learning Confluence
 * Markdown
 * SEO: Keyword Strategy
 * Understanding Information Architecture
