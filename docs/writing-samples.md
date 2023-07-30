@@ -71,7 +71,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 
 ## Digital experiences
 
-View the short, WalkMe guided tour (walkthru) that I designed, wrote, and helped implement in a SaaS application at IBM.
+View a short, WalkMe guided tour (walkthru) that I designed, wrote, and helped implement in a SaaS application at IBM.
 [![Video of a WalkMe walkthru that I implemented in a SaaS application.](images/walkme-video.jpg)](images/WalkMe-walkthru.mp4)
 
 !!! note "More writing samples"
