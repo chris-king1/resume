@@ -71,7 +71,7 @@ IBM Spectrum Control is an on-premises, storage monitoring application.
 
 ## Digital experiences
 
-View a short, WalkMe guided tour (walkthru) that I designed, wrote, and helped implement in a SaaS application at IBM.
+View a short, guided tour that I designed, wrote, and helped implement with [WalkMe]("WalkMe is a Digital Adoption Platform (DAP) that adds a layer of software on top of an application. This added layer can help guide users through key tasks and provides contextual information as they navigate the UI. I was certified as a WalkMe Builder in 2021 through the official certification program. Similar products to WalkMe: Pendo, Whatfix, Appcues.") in a SaaS application at IBM.
 [![Video of a WalkMe walkthru that I implemented in a SaaS application.](images/walkme-video.jpg)](images/WalkMe-walkthru.mp4)
 
 !!! note "More writing samples"
