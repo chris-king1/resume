@@ -10,7 +10,7 @@ View the training courses that I'm taking to help expand and refresh my technica
 * GitHub Quick Tips
 * Learning Confluence Administration
 
-## Completed training (2023)
+## Completed training and education (2023)
 
 * Creating API documentation
 * Editing Mastery: How to Edit Writing to Perfection
