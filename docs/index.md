@@ -14,14 +14,14 @@ Great documentation, help, and in-app assistance provide users with the answers 
 * Detailed-oriented writer with proven skills in managing large volumes of information and multitasking in an agile, deadline-driven environment.
 * Strong communication and organization skills. Experience collaborating with developers, DevOps, editors, engineers, marketing, product architects, product managers, QA, technical support, translators, sales, UX designers, and other key stakeholders.
 
-<a href="Chris-King-Resume-2023.pdf" target="_blank">Download the PDF version of my resume.</a> 
+![PDF](images/PDF_24.png) <a href="Chris-King-Resume-2023.pdf" target="_blank">Download a PDF version of my resume.</a> 
 
 ## Contact information
 
 ![Austin](images/banner-overview.jpg)
 
 Chris King  
-[Cedar Park]("Cedar Park is a suburb of Austin with a population of 74,741."), TX <!-- 78613 --> 
+[Cedar Park]("Cedar Park is a city that borders Austin to the north and has a population of 74,741."), TX <!-- 78613 --> 
 <!-- 1905 Clay Ln -->
 <!-- 512.517.1812 -->
 
