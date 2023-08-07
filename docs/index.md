@@ -21,9 +21,10 @@ Great documentation, help, and in-app assistance provide users with the answers 
 ![Austin](images/banner-overview.jpg)
 
 Chris King  
-[Cedar Park]("Cedar Park is a city that borders Austin to the north and has a population of 74,741."), TX <!-- 78613 --> 
+[Cedar Park]("Cedar Park is a city that borders Austin to the north and has a population of 74,741."), TX   
+512.517.1812
 <!-- 1905 Clay Ln -->
-<!-- 512.517.1812 -->
+
 
 Email: <ck9252@gmail.com>  
 LinkedIn: <a href="https://www.linkedin.com/in/chris-king-b2475b8/" target="_blank">https://www.linkedin.com/in/chris-king-b2475b8/</a>  
