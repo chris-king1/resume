@@ -18,8 +18,8 @@ UI element        | Guideline
 ----------------- | ------------------------------------ 
 Buttons           | Use verbs that match the action. Avoid the word "submit" when a more specific word better describes the action.
 Capitalization    | Use sentence-style capitalization for headings and labels. Consistency is key.
-Hover help        | - Keep to 32 words or less. 64 words max.<br>- Keep to 3 sentences or less.<br>- Begin "what is" text with a definite article.<br>- Focus on one topic.<br>- Splitting infinitives and ending on prepositions is ok -- if they save you a word.
 Inline text       | - Begin with the objective (lead with the benefit).<br>- Keep sentences to 25 words or less.<br>- Keep paragraphs to 3 lines or less.<br>- Begin the first sentence with an imperative, when possible.<br>- Avoid action words like "click" or "press" when that action is implied by the appearance / context of the UI element.<br>- Keep the copy consistent.<br>- Avoid jargon.<br>- Avoid the and/or conjunction. The "and/or" conjunction is forbidden in Strunk and White: The Elements of Style.<br>- Avoid using long noun phrases. Limit a noun phrase to no more than three words.
+Hover help        | - Keep to 32 words or less. 64 words max.<br>- Keep to 3 sentences or less.<br>- Begin "what is" text with a definite article.<br>- Focus on one topic.<br>- Splitting infinitives and ending on prepositions is ok -- if they save you a word.
 Point of view     | Use the second person. As much as possible, use the second person, which is indicated by the personal pronoun "you". The second person focuses on the reader. Avoid using pronouns like I, we, and us, and nouns like "the user".
 Tense             | Write in the present tense.
 Voice             | Use active voice. Exception: In cases where the user failed or did something wrong, you can soften the wording by using passive voice.
